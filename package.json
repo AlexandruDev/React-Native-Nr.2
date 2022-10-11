@@ -9,7 +9,7 @@
   "dependencies": {
     "moment": "^2.22.2",
     "react": "^16.6.0-alpha.8af6728",
-    "react-native": "0.57.4",
+    "react-native": "0.70.2",
     "react-native-cardview": "^2.0.2",
     "react-native-toolbar": "^1.0.7",
     "react-navigation": "^2.18.2"
